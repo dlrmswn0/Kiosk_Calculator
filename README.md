@@ -1,5 +1,5 @@
 # Kiosk_Calculator
-결제 금액 내기 프로그램
+##### *결제 금액 내기 프로그램*
 
 # include "Repeat.h" : kiosk_calculator.lib의 헤더를 포함시킨다.
 
