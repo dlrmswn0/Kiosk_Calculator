@@ -3,10 +3,10 @@
 #include "Array.h"
 #include "WNum.h"
 #include "Tictactoe.h"
-#include "Y.h"
-#include "H.h"
+#include "YACHT_DICE.h"
+#include "Mulgame.h"
 
-class Repeat:public Array,public WNum,public H,public tictactoe,public YahtzeeGame
+class Repeat:public Array,public WNum,public MulGame,public tictactoe,public YahtzeeGame
 {
 private:
 	
