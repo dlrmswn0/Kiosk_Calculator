@@ -5,7 +5,7 @@
 #include <vector>
 #include <ctime>
 using namespace std;
-const int s = 2;
+const int s = 4;
 
 class WNum
 {
